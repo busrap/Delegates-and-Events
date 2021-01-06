@@ -1,0 +1,19 @@
+c:\users\lenovo\documents\visual studio 2015\Projects\DelegateEvents_calisma\DelegateEvents_calisma\bin\Debug\DelegateEvents_calisma.exe.config
+c:\users\lenovo\documents\visual studio 2015\Projects\DelegateEvents_calisma\DelegateEvents_calisma\bin\Debug\DelegateEvents_calisma.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\DelegateEvents_calisma\DelegateEvents_calisma\bin\Debug\DelegateEvents_calisma.pdb
+c:\users\lenovo\documents\visual studio 2015\Projects\DelegateEvents_calisma\DelegateEvents_calisma\obj\Debug\DelegateEvents_calisma.csprojResolveAssemblyReference.cache
+c:\users\lenovo\documents\visual studio 2015\Projects\DelegateEvents_calisma\DelegateEvents_calisma\obj\Debug\DelegateEvents_calisma.Form1.resources
+c:\users\lenovo\documents\visual studio 2015\Projects\DelegateEvents_calisma\DelegateEvents_calisma\obj\Debug\DelegateEvents_calisma.Properties.Resources.resources
+c:\users\lenovo\documents\visual studio 2015\Projects\DelegateEvents_calisma\DelegateEvents_calisma\obj\Debug\DelegateEvents_calisma.csproj.GenerateResource.Cache
+c:\users\lenovo\documents\visual studio 2015\Projects\DelegateEvents_calisma\DelegateEvents_calisma\obj\Debug\DelegateEvents_calisma.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\DelegateEvents_calisma\DelegateEvents_calisma\obj\Debug\DelegateEvents_calisma.pdb
+E:\Eski Calismalar\DelegateEvents_calisma\DelegateEvents_calisma\bin\Debug\DelegateEvents_calisma.exe.config
+E:\Eski Calismalar\DelegateEvents_calisma\DelegateEvents_calisma\bin\Debug\DelegateEvents_calisma.exe
+E:\Eski Calismalar\DelegateEvents_calisma\DelegateEvents_calisma\bin\Debug\DelegateEvents_calisma.pdb
+E:\Eski Calismalar\DelegateEvents_calisma\DelegateEvents_calisma\obj\Debug\DelegateEvents_calisma.csprojAssemblyReference.cache
+E:\Eski Calismalar\DelegateEvents_calisma\DelegateEvents_calisma\obj\Debug\DelegateEvents_calisma.Form1.resources
+E:\Eski Calismalar\DelegateEvents_calisma\DelegateEvents_calisma\obj\Debug\DelegateEvents_calisma.Properties.Resources.resources
+E:\Eski Calismalar\DelegateEvents_calisma\DelegateEvents_calisma\obj\Debug\DelegateEvents_calisma.csproj.GenerateResource.cache
+E:\Eski Calismalar\DelegateEvents_calisma\DelegateEvents_calisma\obj\Debug\DelegateEvents_calisma.csproj.CoreCompileInputs.cache
+E:\Eski Calismalar\DelegateEvents_calisma\DelegateEvents_calisma\obj\Debug\DelegateEvents_calisma.exe
+E:\Eski Calismalar\DelegateEvents_calisma\DelegateEvents_calisma\obj\Debug\DelegateEvents_calisma.pdb

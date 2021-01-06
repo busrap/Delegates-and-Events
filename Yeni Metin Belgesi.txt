@@ -1,0 +1,2 @@
+delegate event c#
+Working using delegate event
